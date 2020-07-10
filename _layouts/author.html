@@ -48,6 +48,9 @@ layout: page
 {% if page.linkedin_username %}
     {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: page.linkedin_username | append: '",' %}
 {% endif %}
+{% if page.author_website %}
+    {% assign author_urls = author_urls | append: '"' | append: author.author_website | append: '",' %}
+{% endif %}
 
 <script type="application/ld+json">
 {

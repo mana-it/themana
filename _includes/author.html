@@ -43,6 +43,11 @@
             <svg><use xlink:href="#icon-linkedin"></use></svg>
           </a>
         {% endif %}
+        {% if author.author_website %}
+          <a href="{{ author.author_website }}" title="Website">
+            <svg><use xlink:href="#icon-website"></use></svg>
+          </a>
+        {% endif %}
       </p>
     </div>
   </section>
@@ -65,6 +70,9 @@
   {% endif %}
   {% if author.linkedin_username %}
       {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+  {% endif %}
+  {% if page.author_website %}
+    {% assign author_urls = author_urls | append: '"' | append: author.author_website | append: '",' %}
   {% endif %}
 
   <script type="application/ld+json">

@@ -16,5 +16,6 @@ facebook_username: SollazzoNicholas
 twitter_username: n_sollazzo
 instagram_username: nicholas_sollazzo
 linkedin_username: nsollazzo
-medium_username: thiagorossener
+medium_username: 
+author_website: https://sollazzo.one
 ---

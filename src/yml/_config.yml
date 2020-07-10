@@ -20,6 +20,8 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
+get_theme_btn_text: Fork me on GitHub!
+get_theme_btn_link: "https://github.com/mana-it/themana"
 use_logo: false
 
 # Content paginator
