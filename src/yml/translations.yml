@@ -1,40 +1,42 @@
-texts:
-  new_post: Nuovo Post
-  seel_also: Vedi anche
-  search: Cerca
-  share: Condividi
-  comments: Commenta
-button:
-  read_now: Leggi ora
-  share_on_twitter: Condividi su Twitter
-  share_on_facebook: Condividi su Facebook
-pagination:
-  page: Pagina
-  of: di
-  next_page: Prossima Pagina
-  next_post: Prossimo Post
-recommendation:
-  text: Perché non leggi qualcos'altro?
-  back_btn: Torna su
-error_404:
-  title: Pagina non trovata :(
-  message: Ci dispiace, ma non riusciamo a trovare la pagina che stai cercando.
-    Assumeremo subito un investigatore privato per cercare di ritrovarla.
-  image_alt: 404 - Pagina non trovata
-contact:
-  placeholders:
-    name: Il tuo Nome
-    email: La tua email
-    message: Il tuo messaggio
-  errors:
-    locale: it
-    empty_name: inserisci il tuo nome
-    empty_email: inserisci la tua email
-    invalid_email: email non valida
-    empty_message: inserisci il tuo messaggio
-  after_send:
-    title: Messaggio inviato!
-    message: Grazie per averci contattato :)
-  title: Parla con noi!
-  subject: Ciao!
-  submit_btn: Invia
+translations:
+  texts:
+    new_post: "Nuovo Post"
+    seel_also: "Vedi anche"
+    search: "Cerca"
+    author: "Autore"
+    share: "Condividi"
+    comments: "Commenti"
+  button:
+    read_now: "Leggi ora"
+    share_on_twitter: "Condividi su Twitter"
+    share_on_facebook: "Condividi su Facebook"
+  pagination:
+    page: "Pagina"
+    of: "di"
+    next_page: "Prossima Pagina"
+    next_post: "Prossimo Post"
+  recommendation:
+    text: "Perché non leggi qualcos'altro?"
+    back_btn: "Torna su"
+  error_404:
+    title: "Pagina non trovata :("
+    message: "Ci dispiace, ma non riusciamo a trovare la pagina che stai cercando.
+      Assumeremo subito un investigatore privato per cercare di ritrovarla."
+    image_alt: "404 - Pagina non trovata"
+  contact:
+    placeholders:
+      name: "Il tuo Nome"
+      email: "La tua email"
+      message: "Il tuo messaggio"
+    errors:
+      locale: "it"
+      empty_name: "inserisci il tuo nome"
+      empty_email: "inserisci la tua email"
+      invalid_email: "email non valida"
+      empty_message: "inserisci il tuo messaggio"
+    after_send:
+      title: "Messaggio inviato!"
+      message: "Grazie per averci contattato :)"
+    title: "Parla con noi!"
+    subject: "Ciao!"
+    submit_btn: "Invia"
