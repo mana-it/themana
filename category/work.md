@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Work
+title: Lavoro
 slug: work
-description: A category for work related posts.
+description: Categoria per i post inerenti il lavoro.
 ---
