@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tips
+title: Consigli
 slug: tips
-description: A category for tips.
+description: Categoria per post sui consigli.
 ---
