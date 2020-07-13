@@ -2,5 +2,5 @@
 layout: category
 title: Tutorial
 slug: tutorial
-description: A category for tutorial related posts.
+description: Categoria per i post sui tutorial.
 ---
