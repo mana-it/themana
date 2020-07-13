@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: TheMana
+title: TheMana | Force From Within
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
+  - themana
+  - mana
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - tecnologia
 show_hero: true
 menu:
   - title: Home
