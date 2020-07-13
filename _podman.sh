@@ -1,5 +1,5 @@
 
-podman unshare chown $USER:$USER $PWD
+# podman unshare chown $USER:$USER $PWD
 
 podman run --rm \
 --volume="$PWD:/srv/jekyll:Z" \

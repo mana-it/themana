@@ -1,5 +1,5 @@
-baseurl: '""'
-url: https://themana.netlify.app
+baseurl: ""
+url: ""
 google_analytics: UA-XXXXXXXX-X
 language: it
 categories_folder: category
