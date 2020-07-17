@@ -61,7 +61,7 @@ get_theme_btn_text: Fork me on GitHub!
 get_theme_btn_link: "https://github.com/mana-it/themana"
 use_logo: false
 
-# transaltions
+# translations
 translations:
   texts:
     new_post: "Nuovo Post"
