@@ -24,7 +24,7 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
 get_theme_btn_text: Gruppo Telegram
-get_theme_btn_link: "https://t.me/mana_group_ita"
+get_theme_btn_link: "https://t.me/TheMana_it_group"
 use_logo: false
 
 # Content paginator
