@@ -1,8 +1,10 @@
 ---
 layout: page
+menu: true
+date: 2020-07-18 11:37:37
 title: About
-description: Some description.
 permalink: /about/
+description: Some description.
 ---
 
 <img class="img-rounded" src="/assets/img/logo.png" alt="Mana" width="200">
