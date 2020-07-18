@@ -14,15 +14,22 @@ description: Cos'è TheMana?
 
 **TheMana** vuole essere una community per portare consapevolezza e cambiamento in Italia.
 
-## Force From Within
+Il nostro obbiettivo è quello di
 
-Crediamo che il cambiamento debba venire da dentro, da persone che vivono l'Italia tutti i giorni. È da questa convinzione che nasce il nostro slogan *Force From Within*.
-
-## Perché "TheMana"?
+## Perché TheMana?
 
 > Il mana o manas è un termine d'origine melanesiana diffuso in molte lingue austronesiane (melanesiana e polinesiana) che generalmente significa «forza sovrannaturale», «potere spirituale», «efficacia simbolica», e può essere tradotto con «forza vitale».
 >
-> Si tratta anche di un termine hawaiano che significa «forza che viene da dentro». 
-> - [Wikipedia](https://it.wikipedia.org/wiki/Mana)
+> Si tratta anche di un termine hawaiano che significa «forza che viene da dentro». [](https://it.wikipedia.org/wiki/Mana)
+>
+> \- [Wikipedia](https://it.wikipedia.org/wiki/Mana)
 
-Noi consideriamo il termine ***Mana*** nel suo significato più generale
+Il ***Mana***, nella terminologia fantasy, è un termine spesso associato alla forza magica posseduta da un individuo
+
+> Any sufficiently advanced technology is indistinguishable from magic.
+>
+> \- Arthur Clark
+
+## Force From Within
+
+Crediamo che il cambiamento debba venire da dentro, da persone che vivono l'Italia tutti i giorni. È da questa convinzione che nasce il nostro slogan *Force From Within*.
