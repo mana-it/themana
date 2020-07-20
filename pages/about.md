@@ -1,14 +1,18 @@
 ---
 layout: page
 menu: true
-date: 2020-07-18 11:37:37
+date: 2020-07-20 13:38:16
 title: About Us
 permalink: /about/
 description: Cos'è TheMana?
+tags:
+  - about
+  - mana
+  - themana
+  - mission
+  - vision
 ---
 <img class="img-rounded" src="/assets/img/logo.png" alt="Mana" width="200">
-
-
 
 ## Cos'è TheMana?
 
@@ -16,7 +20,7 @@ description: Cos'è TheMana?
 
 ## Perché TheMana?
 
-> *Qualsiasi tecnologia sufficentemente avanzata è indistinguibile dalla magia*.
+> *Qualsiasi tecnologia sufficientemente avanzata è indistinguibile dalla magia*.
 >
 > \- **Arthur Clark**
 
@@ -30,15 +34,15 @@ Noi crediamo che questa forza sia il ***Mana***.
 
 > *Il **mana** o manas è un termine d'origine melanesiana diffuso in molte lingue austronesiane (melanesiana e polinesiana) che generalmente significa «forza sovrannaturale», «potere spirituale», «efficacia simbolica», e può essere tradotto con «forza vitale».*
 >
-> *Si tratta anche di un termine hawaiano che significa «forza che viene da dentro». [](https://it.wikipedia.org/wiki/Mana)*
+> *Si tratta anche di un termine hawaiano che significa «forza che viene da dentro».* [](https://it.wikipedia.org/wiki/Mana)
 >
 > \- [Wikipedia](https://it.wikipedia.org/wiki/Mana)
 
-Nella cultura [Melanesiana](https://en.wikipedia.org/wiki/Melanesians "Melanesians") and [Polynesiana](https://en.wikipedia.org/wiki/Polynesians "Polynesians"), il ***Mana*** è la forza vitale che permea l'universo. Chiunque o qualunque cosa può avere *Mana* in quanto esso è posseduto o può essere coltivato liberamente.
+Nella cultura [Melanesiana](https://en.wikipedia.org/wiki/Melanesians "Melanesians") e [Polynesiana](https://en.wikipedia.org/wiki/Polynesians "Polynesians"), il ***Mana*** è la forza vitale che permea l'universo. Chiunque o qualunque cosa può avere *Mana* in quanto esso è posseduto o può essere coltivato liberamente.
 
 Il *Mana* **non è un dono**, ma un **mindset** che alcuni coltivano inconsciamente mentre altri devono lavorare per avere.
 
-Il *Mana* ed è una **forza intenzionale**, in quanto si attiva solo se vi è l'intenzione di farlo e per questo spesso, chi lo possiede, non lo sfutta per adeguarsi alla reltà che lo circonda.
+Il *Mana* è una **forza intenzionale**, in quanto si attiva solo se vi è l'intenzione di farlo e per questo spesso, chi lo possiede, non lo sfrutta per adeguarsi alla reltà che lo circonda.
 
 ## Force From Within
 
@@ -48,7 +52,7 @@ Il termine Mana di per se ha molti significati, ma quello che più piace a noi �
 
 La visione di TheMana è quello di **coltivare curiosità e nuove idee nella mente delle persone per invogliarle a scatenare un cambiamento all'interno della loro vita**. 
 
-Vogliamo far capire alle persone che anche loro hanno del Mana, anche loro sono degli stregoni e anche loro possono fare magie per cambiare la reltà che li circonda.
+Vogliamo far capire alle persone che anche loro hanno del Mana, anche loro sono degli stregoni e anche loro possono fare magie per cambiare la realtà che li circonda.
 
 In poche parole **vogliamo cambiare il mondo, una persona alla volta**.
 
@@ -57,7 +61,5 @@ In poche parole **vogliamo cambiare il mondo, una persona alla volta**.
 Per realizzare la nostra visione del futuro, la nostra missione presente è:
 
 1. **Creare awareness**: attraverso i social (video, foto e audio) e il nostro blog mostrare alle persone cosa c'è di sbagliato nella realtà attuale;
-
-2. **Dare soluzioni**: dopo avere creato *awareness* mostrare alle persone soluzioni più efficenti attraverso la promozione e sviluppo di prodotti e servizi etici e che rispettano e danno potere all'individuo;
-
-3. **Condurre**: quando non sarà possibile "risvegliare" l'individuo dalla sua realtà attuale, verrà a lui presentata comunque una soluzione più semplice, efficente ed efficace così che anche gli individui più agnostici e restii al cambiamento (di cui purtroppo l'Italia è piena) ci seguiranno.
+2. **Dare soluzioni**: dopo avere creato *awareness* mostrare alle persone soluzioni più efficienti attraverso la promozione e sviluppo di prodotti e servizi etici e che rispettano e danno potere all'individuo;
+3. **Condurre**: quando non sarà possibile "risvegliare" l'individuo dalla sua realtà attuale, verrà a lui presentata comunque una soluzione più semplice, efficiente ed efficace così che anche gli individui più agnostici e restii al cambiamento (di cui purtroppo l'Italia è piena) ci seguiranno.
