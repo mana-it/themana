@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/nick_pic.jpg
+photo: /assets/img/uploads/nsollazzo.jpg
 name: nsollazzo
 display_name: Nicholas Sollazzo
 position: Founder
@@ -16,6 +16,6 @@ facebook_username: SollazzoNicholas
 twitter_username: n_sollazzo
 instagram_username: nicholas_sollazzo
 linkedin_username: nsollazzo
-medium_username: 
+medium_username: nsollazzo
 author_website: https://sollazzo.one
 ---
