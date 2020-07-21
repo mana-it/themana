@@ -1,15 +1,12 @@
 # Site Settings
 name: TheMana
 title: TheMana | Force From Within
-description: .
+description: La forza del cambiamento arriva da dentro
 tags:
+  - themana
+  - mana
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - tecnologia
 show_hero: true
 menu:
   - title: Home
@@ -20,32 +17,119 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: youremail@test.com
+disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: mana-it
 facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+instagram_username: themana_it
+linkedin_username: themana
 medium_username: medium_username
 
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: true
+show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
 
+# Translations Settings
+translations:
+  texts:
+    new_post: Nuovo Post
+    seel_also: Vedi anche
+    search: Cerca
+    author: Autore
+    share: Condividi
+    comments: Commenti
+  button:
+    read_now: Leggi ora
+    share_on_twitter: Condividi su Twitter
+    share_on_facebook: Condividi su Facebook
+  pagination:
+    page: Pagina
+    of: di
+    next_page: Prossima Pagina
+    next_post: Prossimo Post
+  recommendation:
+    text: Perché non leggi qualcos'altro?
+    back_btn: Torna su
+  error_404:
+    title: Pagina non trovata :(
+    message: Ci dispiace, ma non riusciamo a trovare la pagina che stai cercando.
+      Assumeremo subito un investigatore privato per cercare di ritrovarla.
+    image_alt: 404 - Pagina non trovata
+  contact:
+    placeholders:
+      name: Il tuo Nome
+      email: La tua email
+      message: Il tuo messaggio
+    errors:
+      locale: it
+      empty_name: inserisci il tuo nome
+      empty_email: inserisci la tua email
+      invalid_email: email non valida
+      empty_message: inserisci il tuo messaggio
+    after_send:
+      title: Messaggio inviato!
+      message: Grazie per averci contattato :)
+    title: Parla con noi!
+    subject: Ciao!
+    submit_btn: Invia
+texts:
+  new_post: Nuovo Post
+  seel_also: Vedi Anche
+  search: Cerca
+  share: Condividi
+  comments: Commenti
+button:
+  read_now: Leggi ora
+  share_on_twitter: Condividi su Twitter
+  share_on_facebook: Condividi su Facebook
+pagination:
+  page: Pagina
+  of: di
+  next_page: Prossima Pagina
+  next_post: Prossimo Post
+recommendation:
+  text: Potrebbero interessarti anche questi articoli
+  back_btn: Torna su
+error_404:
+  title: Pagina non trovata :(
+  message: Ci dispiace, ma non riusciamo a trovare la pagina che stai cercando.
+    Assumeremo subito un investigatore privato per cercare di ritrovarla.
+  image_alt: 404 - Pagina non trovata
+contact:
+  placeholders:
+    name: Il tuo nome
+    email: La tua email
+    message: Il tuo messaggio
+  errors:
+    locale: it
+    empty_name: inserisci il tuo nome
+    empty_email: inserisci la tua email
+    invalid_email: email non valida
+    empty_message: inserisci il tuo messaggio
+  title: Contattaci
+  subject: Ciao!
+  submit_btn: Invia
+  after_send:
+    title: Messaggio inviato!
+    message: Grazie per averci contattato, ti risponderemo il prima possibile
+
+
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "it"
+baseurl: ""
+url: ""
+google_analytics: UA-XXXXXXXX-X
+language: it
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+sent_message_url: /contact/message-sent/
 
 
 # Build settings
@@ -57,54 +141,9 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-get_theme_btn_text: Fork me on GitHub!
-get_theme_btn_link: "https://github.com/mana-it/themana"
+get_theme_btn_text: Gruppo Telegram
+get_theme_btn_link: "https://t.me/TheMana_it_group"
 use_logo: false
-
-# translations
-translations:
-  texts:
-    new_post: "Nuovo Post"
-    seel_also: "Vedi anche"
-    search: "Cerca"
-    author: "Autore"
-    share: "Condividi"
-    comments: "Commenti"
-  button:
-    read_now: "Leggi ora"
-    share_on_twitter: "Condividi su Twitter"
-    share_on_facebook: "Condividi su Facebook"
-  pagination:
-    page: "Pagina"
-    of: "di"
-    next_page: "Prossima Pagina"
-    next_post: "Prossimo Post"
-  recommendation:
-    text: "Perché non leggi qualcos'altro?"
-    back_btn: "Torna su"
-  error_404:
-    title: "Pagina non trovata :("
-    message: "Ci dispiace, ma non riusciamo a trovare la pagina che stai cercando.
-      Assumeremo subito un investigatore privato per cercare di ritrovarla."
-    image_alt: "404 - Pagina non trovata"
-  contact:
-    placeholders:
-      name: "Il tuo Nome"
-      email: "La tua email"
-      message: "Il tuo messaggio"
-    errors:
-      locale: "it"
-      empty_name: "inserisci il tuo nome"
-      empty_email: "inserisci la tua email"
-      invalid_email: "email non valida"
-      empty_message: "inserisci il tuo messaggio"
-    after_send:
-      title: "Messaggio inviato!"
-      message: "Grazie per averci contattato :)"
-    title: "Parla con noi!"
-    subject: "Ciao!"
-    submit_btn: "Invia"
-
 
 # Content paginator
 paginate_content:
@@ -147,4 +186,4 @@ exclude: [
 ]
 
 # Theme
-version: v1.0.0
+version: v0.1.0
