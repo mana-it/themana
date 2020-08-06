@@ -22,7 +22,7 @@ tags:
 
 > *Qualsiasi tecnologia sufficientemente avanzata è indistinguibile dalla magia*.
 >
-> \- **Arthur Clark**
+> \- **Arthur Clarke**
 
 Noi tutti oggi **viviamo in un mondo magico**: possiamo comunicare a grandissima distanza in tempo reale, immortalare un qualsiasi istante nel tempo in pochi secondi, illuminare la grotta più oscura, volare così in alto da raggiungere lo spazio e respirare anche negli abissi più profondi.
 
